@@ -1,1 +1,1 @@
-Hello today
+<?php 'git pull';
